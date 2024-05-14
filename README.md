@@ -16,5 +16,8 @@ sh -c "`curl -L vnt.liaoh.cloudns.be`"
 
 脚本支持（natmap生成的）ip4p和TXT记录域名
 
+![PixPin_2024-05-15_02-30-22](https://github.com/lhongcai/padavan_vnt_cli_script/assets/169835886/6d9a820a-678d-43a0-b764-3c7806188ef5)
+
+
 交流群
 QQ: 1034868233
