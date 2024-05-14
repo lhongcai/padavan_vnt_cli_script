@@ -1,6 +1,7 @@
 padavan一键超简单化安装配置虚拟组网VNT 脚本支持ip4p和TXT记录域名
 https://www.right.com.cn/forum/thread-8308307-1-1.html
 
+项目地址：https://github.com/lbl8603/vnt
 
 发现了一款非常好的异地虚拟组网插件VNT，它的速度吊打一切同类插件。两台MT7621平台的padanvan之间能跑满百兆，openwrt之间就稍差点60~70M
 
