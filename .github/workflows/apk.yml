@@ -14,6 +14,7 @@ jobs:
           java-version: 11
       - name: 构建 APK
         run: |
+         ls /usr/local/lib/android/sdk/build-tools/*
          git clone https://github.com/lbl8603/VntApp /opt/vnt-android
          cd /opt/vnt-android
          sed -i 's|7.2|6.9|g' ./gradle/wrapper/gradle-wrapper.properties
